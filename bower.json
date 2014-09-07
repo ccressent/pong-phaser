@@ -1,0 +1,21 @@
+{
+  "name": "pong-phaser",
+  "version": "0.1.0",
+  "authors": [
+    "Cyril Cressent <cyril@cressent.org>"
+  ],
+  "description": "A pong game implemented with Phaser (http://phaser.io)",
+  "license": "MIT",
+  "homepage": "https://github.com/ccressent/pong-phaser",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.0.7"
+  }
+}
